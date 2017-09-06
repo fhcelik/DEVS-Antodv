@@ -1,0 +1,13 @@
+[PropertyInfo]
+arrived,Function,false,false, , ,false,<default>
+clock,double,false,false, , ,false,<default>
+i_hops,int[],false,false, , ,false,<default>
+num_emerged,int,false,false, , ,false,<default>
+observation_time,double,false,false, , ,false,<default>
+solved,Function,false,false, , ,false,<default>
+total_ta,double,false,false, , ,false,<default>
+[IconNames]
+
+
+
+
